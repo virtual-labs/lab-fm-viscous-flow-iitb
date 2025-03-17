@@ -12,14 +12,14 @@
     "introduction": "The Fluid mechanics is a branch of the science which deals with the behavior of the fluids (Pressure, Velocity, force etc.) when fluid is in rest or in motion. The fluids are categorised in two broad categories liquids and gases. The fluid mechanics is a study of static, kinematics and dynamic behavior of the fluid. In Fluid kinematics the force(pressure) is not considered while in dynamics the force is also considered. The effect of temperature on behavior of fluid is not taken into consideration",
     "experiments":[
     {
-        "name": "Viscous flow through circular pipe",
+        "name": "Viscous Flow Through Circular Pipe",
         "short-name": "viscous-circular-pipe",
         "repo": "https://github.com/virtual-labs/exp-viscous-circular-pipe-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Viscous flow between two parallel plates",
+        "name": "Viscous Flow Between Two Parallel Plates",
         "short-name": "viscous-parallel-plate",
         "repo": "https://github.com/virtual-labs/exp-viscous-parallel-plate-iitb",
         "tag": "v1.0.0",
